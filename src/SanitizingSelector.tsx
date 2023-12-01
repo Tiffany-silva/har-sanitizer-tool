@@ -237,25 +237,20 @@ export const SanitizeSelector: React.FC<SanitizeSelectorProps> = ({
 				className="mt-10 ml-8 mr-10 text-gray-500 dark:text-gray-400 mb-10"
 			>
 				<div>
-					<h3 className="font-bold mt-5 text-gray-700">
-						Best Practices for Sharing Network Traces{" "}
-					</h3>
+					<h1 className="text-2xl font-bold mt-5 text-gray-700">
+						Introducing the <span className="text-orange-500 dark:text-blue-500">HAR File Sanitizer Tool </span>
+						- Secure Troubleshooting Made Easy for Web-Related Issues!
+					</h1>
 					<p className="mt-2  dark:text-gray-400">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-						bibendum hendrerit varius. Maecenas lorem tellus, viverra quis
-						sapien vel, consequat ornare lectus. Donec ut nunc mauris. Donec
-						elementum enim vel viverra sagittis. Praesent placerat ac nunc sit
-						amet interdum. Mauris aliquet urna metus, nec tempus eros efficitur
-						sed. Morbi tincidunt enim ac leo interdum, at porta purus consequat.
-						Sed lacus ex, ultrices eu vulputate vitae, efficitur eu enim. Fusce
-						tincidunt, nisl et lobortis tempor, orci nulla consequat ligula,
-						quis bibendum purus ex quis sem. Aenean metus ante, rhoncus aliquam
-						diam quis, condimentum volutpat mi. Vestibulum blandit tristique
-						velit a pellentesque.
+						When you encounter issues with websites, providing network traces becomes crucial for troubleshooting.
+						However, these traces might contain sensitive info like passwords and API keys, posing security risks.
+						The HAR Sanitizer tool sanitizes sensitive data providing the capability to hash or remove entirely from your network traces,
+						ensuring your session cookies, authorization headers, and more stay private.
+						It works using client-side logic to sanitize HAR files, allowing you to share troubleshooting data without compromising security.
+						Embrace a worry-free online experience with our commitment to building a safer Digital Realm!
 					</p>
 				</div>
 			</div>
-			<div>{printUpdated()}</div>
 		</div>
 	);
 };
