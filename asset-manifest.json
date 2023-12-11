@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/har-sanitizer-tool/static/css/main.7b9171d0.css",
-    "main.js": "/har-sanitizer-tool/static/js/main.76cfc103.js",
+    "main.css": "/har-sanitizer-tool/static/css/main.f2742a7a.css",
+    "main.js": "/har-sanitizer-tool/static/js/main.4f731d86.js",
     "static/js/787.5684d8c0.chunk.js": "/har-sanitizer-tool/static/js/787.5684d8c0.chunk.js",
     "index.html": "/har-sanitizer-tool/index.html",
-    "main.7b9171d0.css.map": "/har-sanitizer-tool/static/css/main.7b9171d0.css.map",
-    "main.76cfc103.js.map": "/har-sanitizer-tool/static/js/main.76cfc103.js.map",
+    "main.f2742a7a.css.map": "/har-sanitizer-tool/static/css/main.f2742a7a.css.map",
+    "main.4f731d86.js.map": "/har-sanitizer-tool/static/js/main.4f731d86.js.map",
     "787.5684d8c0.chunk.js.map": "/har-sanitizer-tool/static/js/787.5684d8c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b9171d0.css",
-    "static/js/main.76cfc103.js"
+    "static/css/main.f2742a7a.css",
+    "static/js/main.4f731d86.js"
   ]
 }
